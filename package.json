@@ -1,6 +1,6 @@
 {
   "name": "hide-stack-frames-from",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hides stack frames from arbitrary node package.",
   "main": "index.js",
   "scripts": {
